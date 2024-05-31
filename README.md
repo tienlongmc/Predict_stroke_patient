@@ -1,0 +1,1 @@
+Co cụm dữ liệu các thuộc tính trong file Healthcare-dataset-stroke-data.csv được bảng data1. Tiếp theo lấy 100 bản ra để train và 50 bản để test ( với train_y và test_y là cột stroke vì đây là thuộc tính quyết định còn test_x test_y là dữ liệu các cột còn lại)
